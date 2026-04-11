@@ -8,6 +8,7 @@ hero:
 ---
 
 ![Banner](/isc2my-banner.png)
+![BOD 2026/2027](/bod-2026-2027.jpg)
 ![Main Page](/main-1.png)
 ![Main Page](/main-2.png)
 ![Main Page](/main-3.png)
