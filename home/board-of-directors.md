@@ -89,7 +89,7 @@ const members = [
 
 # Board of Directors
 
-## 2025-2026 Chapter Board of Directors
+## 2026-2027 Chapter Board of Directors
 
 The chapter Board of Directors (BoDs) is run by a group of dedicated member volunteers elected by the chapter members, who are inspired by the chapter's mission and objectives.
 <VPTeamMembers size="small" :members="members" />
