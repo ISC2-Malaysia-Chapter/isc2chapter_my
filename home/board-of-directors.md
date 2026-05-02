@@ -20,18 +20,12 @@ const members = [
   {
     avatar: '/treasurer.webp',
     name: 'Nur Arimi Kamaruzaman',
-    title: 'Treasurer',
-    links: [
-      { icon: 'linkedin', link: 'https://www.linkedin.com/in/arimi-k-612566a4' }
-    ]
+    title: 'Treasurer'
   },
   {
     avatar: '/director-membership.webp',
     name: 'Khairul Naim',
-    title: 'Membership Director',
-    links: [
-      { icon: 'linkedin', link: 'https://www.linkedin.com/in/khairulnaim-cybersecuritystrategist' }
-    ]
+    title: 'Membership Director'
   },
   {
     avatar: '/vice-treasurer.webp',
@@ -41,10 +35,7 @@ const members = [
   {
     avatar: '/director-academia.webp',
     name: 'Ahmad Fuad',
-    title: 'Director, Academia Relation',
-    links: [
-      { icon: 'linkedin', link: 'https://www.linkedin.com/in/ahmad-fuad-kamarazaman-6b66a169' }
-    ]
+    title: 'Director, Academia Relation'
   },
   {
     avatar: '/director-events.webp',
@@ -54,10 +45,7 @@ const members = [
   {
     avatar: '/director-partnerships.webp',
     name: 'Ng Tuck Bin',
-    title: 'Director, Partnerships',
-    links: [
-      { icon: 'linkedin', link: 'https://www.linkedin.com/in/tuckbin' }
-    ]
+    title: 'Director, Partnerships'
   },
   {
     avatar: '/director-women.webp',
